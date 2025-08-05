@@ -178,8 +178,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Vishnu P Rajagopal**
 - 📧 Email: vishnurajagopal28@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vishnu-p-rajagopal-585b8b216/)
-- 🐙 GitHub: [@yourusername](https://github.com/Vishnudrm)
+- 💼 LinkedIn: [Vishnu P Rajagopal](https://www.linkedin.com/in/vishnu-p-rajagopal-585b8b216/)
+- 🐙 GitHub: [Vishnudrm](https://github.com/Vishnudrm)
 
 ## 🙏 Acknowledgments
 
